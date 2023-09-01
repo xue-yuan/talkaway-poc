@@ -1,5 +1,5 @@
-from ..core import audio
-from ..core import generative
+from core import audio
+from core import generative
 
 
 class LocalPoc():

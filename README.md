@@ -4,6 +4,7 @@
 
 - Python Interpreter: `python 3.10^`
 - Package Manager: `poetry 1.6.1`
+- Apply OpenAI's [secret key](https://platform.openai.com/account/api-keys)
 
 ```shell
 # create new environment
@@ -17,6 +18,12 @@ deactivate
 
 # install all packages
 poetry install
+
+# copy example config file as config.py and fill your secret key
+cp config.py.example config.py
+
+# run program
+python main.py
 ```
 
 # Workflow
