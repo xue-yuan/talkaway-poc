@@ -36,3 +36,7 @@ Record Audio -> STT -> G-AI -> TTS
 - Generative AI
 
 - TTS (Text to Speech)
+
+# Note
+
+1. [web recorder](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/mediaDevices)
