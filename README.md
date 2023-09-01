@@ -2,6 +2,7 @@
 
 **Prerequisite:**
 
+- MacOS(Unsure if it works on other OS)
 - Python Interpreter: `python 3.10^`
 - Package Manager: `poetry 1.6.1`
 - Apply OpenAI's [secret key](https://platform.openai.com/account/api-keys)
@@ -46,6 +47,8 @@ Record Audio -> STT -> G-AI -> TTS
   - [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 
 - Generative AI
+
+  - [OpenAI](https://github.com/openai/openai-python)
 
 - TTS (Text to Speech)
 
