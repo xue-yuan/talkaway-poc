@@ -21,9 +21,12 @@ poetry install
 
 # copy example config file as config.py and fill your secret key
 cp config.py.example config.py
+```
 
-# run program
-python main.py
+# Usage
+
+```shell
+python main.py [local|remote]
 ```
 
 # Workflow
