@@ -1,4 +1,6 @@
-# Requirements
+# Installation
+
+**Prerequisite:**
 
 - Python Interpreter: `python 3.10^`
 - Package Manager: `poetry 1.6.1`
@@ -13,7 +15,7 @@ source venv/bin/activate
 # deactivate
 deactivate
 
-# to install all package
+# install all packages
 poetry install
 ```
 
