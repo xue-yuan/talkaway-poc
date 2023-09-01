@@ -7,10 +7,10 @@
 # create new environment
 python -m venv venv
 
-# use
+# activate
 source venv/bin/activate
 
-# exit
+# deactivate
 deactivate
 
 # to install all package
