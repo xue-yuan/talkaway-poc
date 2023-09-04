@@ -3,21 +3,12 @@
 **Prerequisite:**
 
 - MacOS(Unsure if it works on other OS)
-- Python Interpreter: `python 3.10^`
+- Python Interpreter: `python 3.11^`
 - Package Manager: `poetry 1.6.1`
 - Apply OpenAI's [secret key](https://platform.openai.com/account/api-keys)
 
 ```shell
-# create new environment
-python -m venv venv
-
-# activate
-source venv/bin/activate
-
-# deactivate
-deactivate
-
-# install all packages
+# this command will create a new environment and install all requirements
 poetry install
 
 # copy example config file as config.py and fill your secret key
