@@ -10,4 +10,4 @@ class LocalPoc():
             return
 
         response = generative.chat(script)
-        # audio.text_to_speech(response)
+        audio.text_to_speech(response)
